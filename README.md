@@ -11,5 +11,5 @@ This repository contains my courses that I am  taking while becoming an android 
     * MIT 6.092 ( INTRODUCTION TO PROGRAMMING IN JAVA )
     * 
   ### Practice Resourses:
-    * Coding Bat :[ https:// www.codingbat.com](https://codingbat.com/java)https://codingbat.com/java]
+    * Coding Bat : https:// www.codingbat.com](https://codingbat.com/java)https://codingbat.com/java
       
