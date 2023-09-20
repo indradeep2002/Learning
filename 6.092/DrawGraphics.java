@@ -22,8 +22,8 @@ public class DrawGraphics {
         items.add(box4);
 
         box1.setMovementVector(1, 0);
-        box2.setMovementVector(1, 0);
-        box3.setMovementVector(1, 0);
+        box2.setMovementVector(-3, -2);
+        box3.setMovementVector(1, 1);
         box4.setMovementVector(1, 0);
         
     }
