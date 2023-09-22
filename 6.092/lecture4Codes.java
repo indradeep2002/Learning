@@ -38,7 +38,7 @@ class Baby{
         return numBabiesMade;
     }
 }
-
+ master
 public class lecture4Codes {
     public static void main(String[] args) {
         Baby myBaby = new Baby("Indradeep" , true);
@@ -55,5 +55,3 @@ public class lecture4Codes {
         Baby b2 = new Baby("raju", true);
         //Baby.numBabiesMade = 2; 
         System.out.println(Baby.numbaby());
-     }   
-}
