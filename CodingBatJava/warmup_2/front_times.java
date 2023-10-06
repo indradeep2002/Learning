@@ -16,6 +16,7 @@ public class front_times {
           new_str += str;
         }
         return new_str;
+
         
     }
 
@@ -23,6 +24,7 @@ public class front_times {
         System.out.println(frontTimes("Chocolate", 2));
         System.out.println(frontTimes("Chocolate", 3));
         System.out.println(frontTimes("Abc", 3));
+        
     }
 
 }
