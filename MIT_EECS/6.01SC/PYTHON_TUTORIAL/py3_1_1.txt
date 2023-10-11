@@ -1,0 +1,22 @@
+def a(x, y, z):
+    if x:
+        return y
+    else:
+        return z
+
+
+def b(y,z):
+    return a(y>z, y, z)
+
+
+1. >>> a(False, 2, 3)
+    noneType
+    int ( ans )
+    float
+    boolean
+    function
+2. >>> b(3,2) ans : 3
+3. >>> a(3>2, a, b) ans : function a 
+4. >>> b(a,b)  ans : function b  
+(Contrary to expectation, in Python, it is technically legal to compare functions. We
+actually were expecting this to generate an error, but it doesn't.) 
