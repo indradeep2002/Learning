@@ -1,4 +1,4 @@
-package CodingBatJava.string_1;
+
 
 public class hello_name {
     public static String helloName(String name) {

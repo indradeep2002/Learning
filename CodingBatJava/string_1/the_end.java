@@ -1,4 +1,4 @@
-package CodingBatJava.string_1;
+
 
 public class the_end {
     

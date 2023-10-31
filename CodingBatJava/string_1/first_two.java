@@ -1,4 +1,4 @@
-package CodingBatJava.string_1;
+
 
 public class first_two {
     public static String firstTwo(String str) {
