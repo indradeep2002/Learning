@@ -1,4 +1,4 @@
-package CodingBatJava.string_1;
+
 
 public class make_out_word {
     public static String makeOutWord(String out, String word) {

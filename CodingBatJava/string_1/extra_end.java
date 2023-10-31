@@ -1,4 +1,4 @@
-package CodingBatJava.string_1;
+
 
 public class extra_end {
     public static String extraEnd(String str) {

@@ -1,4 +1,4 @@
-package CodingBatJava.string_1;
+
 
 public class without_end {
     public static String withoutEnd(String str) {

@@ -1,4 +1,4 @@
-package CodingBatJava.string_1;
+
 
 public class make_tags {
     public static String makeTags(String tag, String word) {

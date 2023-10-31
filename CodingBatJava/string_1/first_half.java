@@ -1,4 +1,4 @@
-package CodingBatJava.string_1;
+
 
 public class first_half {
     public static String firstHalf(String str) {

@@ -1,4 +1,4 @@
-package CodingBatJava.string_1;
+
 
 public class make_abba {
     public static String makeAbba(String a, String b) {
