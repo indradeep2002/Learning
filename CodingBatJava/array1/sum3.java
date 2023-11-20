@@ -1,3 +1,5 @@
+package CodingBatJava.array1;
+
 public class sum3 {
     
     public static int Sum3(int[] nums) {
