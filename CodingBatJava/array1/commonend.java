@@ -1,3 +1,5 @@
+package CodingBatJava.array1;
+
 public class commonend {
     
     public static boolean commonEnd(int[] a, int[] b) {

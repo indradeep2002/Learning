@@ -1,3 +1,5 @@
+package CodingBatJava.array1;
+
 public class makepi {
     
     public static int[] makePi() {
