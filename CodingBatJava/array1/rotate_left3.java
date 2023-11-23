@@ -1,4 +1,4 @@
-package CodingBatJava.array1;
+//package CodingBatJava.array1;
 
 public class rotate_left3{
 
